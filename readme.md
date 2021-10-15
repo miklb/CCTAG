@@ -11,7 +11,7 @@ That said, a 5 character dot org domain is hard to come by and adding subdomains
 
 ##  CityCamp
 
-I recently learned about [CityCamp]() and believe it would be an excellent way to introduce the idea to the community and set the tone and expectations for the chapter as well as build rapport with staff. 
+I recently learned about [CityCamp](http://citycamp.com/) and believe it would be an excellent way to introduce the idea to the community and set the tone and expectations for the chapter as well as build rapport with staff. 
 
 ##  How
 My goal is to start a Tampa chapter as a founding city. I would be thrilled to have others join me in planning either locally or as another founding city.
