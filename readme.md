@@ -21,6 +21,6 @@ I debated whether GitHub is the right place for this but for the subject matter 
 Invariably I expect tools to be added as needs arise or models are built for demonstrations.
 
 ## When
-Now. Join me in the discussion.
+Now. Join me in the [discussion](https://github.com/miklb/CCTAG/discussions/1).
 
 
